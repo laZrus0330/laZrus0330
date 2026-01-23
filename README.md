@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Header" />
+</p>
+
 ## Hi there 👋
 
 <!--
