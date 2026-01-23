@@ -2,8 +2,8 @@
   <img src="header.png" alt="Header" />
 </p>
 
-# 👋Hi, Im Vhen!
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&text=Hi,+I'm+Vhen!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=100000&center=true&vCenter=true&width=600&height=60&lines=👋Hi,+I'm+Vhen!" />
+
 <!--
 **laZrus0330/laZrus0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
