@@ -2,7 +2,10 @@
   <img src="header.png" alt="Header" />
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=100000&color=F7F7F7&center=true&vCenter=true&width=600&height=60&lines=👋Hi,+I'm+Vhen!" />
+# 👋Hi, I'm Vhen!
+
+### I am a BSIT student from the Caraga State University Cabadbaran Campus. Who enjoys learning, building, and experimenting with technology. I like working on projects that help me understand how things work behind the scenes — from databases to simple systems and applications.
+
 
 <!--
 **laZrus0330/laZrus0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
