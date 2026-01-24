@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="header.png" alt="Header" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=100000&center=true&vCenter=true&width=600&height=60&lines=👋Hi,+I'm+Vhen!" />
 
