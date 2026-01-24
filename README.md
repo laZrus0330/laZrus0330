@@ -6,7 +6,14 @@
 
 ### I am a BSIT student from the Caraga State University Cabadbaran Campus. Who enjoys learning, building, and experimenting with technology. I like working on projects that help me understand how things work behind the scenes — from databases to simple systems and applications.
 
+## About Me
 
+<img src="character.png" width="180" align="right" />
+
+- 🎓 BSIT student from the Philippines  
+- 💻 Interested in software development  
+- 🌱 Always learning and improving  
+- 🔧 Working with Java, PHP, and SQL  
 <!--
 **laZrus0330/laZrus0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
