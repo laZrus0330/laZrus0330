@@ -6,9 +6,10 @@
 
 ### I am a BSIT student from the Caraga State University Cabadbaran Campus. Who enjoys learning, building, and experimenting with technology. I like working on projects that help me understand how things work behind the scenes — from databases to simple systems and applications.
 
-## About Me
-
+<br>
 <img src="character.png" width="180" align="right" />
+
+## About Me
 
 - 🎓 BSIT student from the Philippines  
 - 💻 Interested in software development  
