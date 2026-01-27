@@ -2,14 +2,13 @@
   <img src="header.png" alt="Header" />
 </p>
 
-# 👋Hi, I'm Vhen!
+<img src="character.png" width="250" align="right" />
 
-### I am a BSIT student from the Caraga State University Cabadbaran Campus. Who enjoys learning, building, and experimenting with technology. I like working on projects that help me understand how things work behind the scenes — from databases to simple systems and applications.
+# 👋HI, I'M VHEN!
 
-<br>
-<img src="character.png" width="180" align="right" />
+I am a BSIT student from the Caraga State University Cabadbaran Campus. Who enjoys learning, building, and experimenting with technology. I like working on projects that help me understand how things work behind the scenes — from databases to simple systems and applications.
 
-## About Me
+**About Me**
 
 - 🎓 BSIT student from the Philippines  
 - 💻 Interested in software development  
