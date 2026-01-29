@@ -10,8 +10,7 @@ I am a BSIT student from the Caraga State University Cabadbaran Campus. Who enjo
 
 **About Me**
 
-- 🎓 BSIT student from the Philippines  
-- 💻 Interested in software development  
+- 💻 Interested in Web Designs 
 - 🌱 Always learning and improving  
 - 🔧 Working with Java, PHP, and SQL  
 <!--
